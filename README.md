@@ -7,3 +7,4 @@ packages:
 react-hook-form 
 yup
 @hookform/resolvers
+@mui/material @emotion/react @emotion/styled
