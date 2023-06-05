@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-    <Container sx={{bgcolor:'tomato', height: '100vh', ":hover" : { bgcolor: "darkblue"}}}>
+    <Container sx={{bgcolor:'#cfcfcf', height: '100vh', ":hover" : { bgcolor: "#efefef"}}}>
     <Typography variant="h1" sx={{my: 4, textalign: 'center', color: "primary.main"}}>
       Resume Builder
     </Typography>
