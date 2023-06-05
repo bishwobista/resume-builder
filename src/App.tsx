@@ -13,11 +13,7 @@ function App() {
     </Typography>
     
     <Form />
-    <Box>
-      <Typography variant="h2" sx={{width: {xs:1, md: 200}, height: 200, bgcolor: "white"}}>
-        Resume Preview
-      </Typography>
-    </Box>
+    
     </Container>
     </>
   )
